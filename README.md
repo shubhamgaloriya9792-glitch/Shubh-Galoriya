@@ -1,2 +1,2 @@
 # Shubh-Galoriya
-Password strength detection
+Password strength checker tool
